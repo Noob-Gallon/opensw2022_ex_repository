@@ -7,3 +7,7 @@ void foo() {
 void goo() {
     printf("goo!\n");
 }
+
+void zoo() {
+    printf("zoo!\n");
+}
