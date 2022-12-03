@@ -3,8 +3,12 @@
 
 int main(void) {
 
-    foo();
-    goo();
+    for (int i = 0; i < 3; i++) {
+
+        foo();
+        goo();
+        zoo();
+    }
 
     return 0;
 }
